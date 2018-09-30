@@ -53,6 +53,7 @@
 
 /*########################################################*/
 .container { width: 1200px }
+.card-img-top { width:40% ;}
 html,
 body {
     height: 100%;
